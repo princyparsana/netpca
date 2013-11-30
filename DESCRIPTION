@@ -1,0 +1,12 @@
+Package: netpca
+Maintainer: Princy Parsana <princyparsana@jhu.edu>
+Depends: R (>= 2.10), limma
+Imports: BiocGenerics
+Suggests: pensim
+Author: Princy Parsana and Levi Waldron
+Version: 0.3.0
+Date: 2012-10-19
+License: GPL (>2.0)
+Title: GSEA for Principal Components Analysis
+Description: Package for identifying reproducible principal components across datasets and characterizing those components by GSEA.
+Packaged: 2013-11-30 02:00:05 UTC; princyp
